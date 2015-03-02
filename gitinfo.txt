@@ -1,0 +1,12 @@
+origin	https://github.com/djcoder100/realtime-analytics.git (fetch)
+origin	https://github.com/djcoder100/realtime-analytics.git (push)
+
+git checkout master
+
+git pull https://github.com/pulsarIO/realtime-analytics.git master
+
+git commit -m
+
+git push origin master
+
+
